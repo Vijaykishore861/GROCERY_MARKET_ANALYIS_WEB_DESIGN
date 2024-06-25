@@ -1,0 +1,161 @@
+.head-cell{
+    background-image: url(file:///D:/webpage/titleforG.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.td-head-cell{
+    
+    text-align: justify;
+    width: 100%;
+    display: inline-block;
+    border: 0
+}
+td{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    box-shadow: 5px 0 5px -2px #888;
+
+}
+tr{
+    width:100%
+}
+
+body{
+    width: 100%
+}
+
+table{
+    width: 100%;
+
+}
+
+.table-table-1{
+    border : 0;
+    border-collapse: collapse;
+}
+
+.spancontext{
+    font-size: 38px;
+    font-weight: lighter;
+}
+
+.table-table-2{
+    border : 1;
+    border-collapse: collapse;
+    height: 60px;
+    box-shadow: 0 0 1px 0(black);
+}
+
+.textalign{
+    width: 100%;
+    text-align: center
+}
+
+.td1-cell-1{
+    width: 20%; 
+    background-color: #ffd5e1;
+}
+
+.td1-cell-2{
+    width: 50%;
+    background-color: rgb(175, 48, 44);
+    color:white
+}
+
+.td1-cell-3{
+    width: 30%;
+    background-color: rgb(203, 39, 39);
+    color:white
+}
+
+.td1-cell-4{
+    width: 20%;
+    background-color:#ffdae5
+}
+
+.td1-cell-5{
+    width: 33.3%;
+    background-color:#dad2e9
+}
+
+.td1-cell-6{
+    width: 16.7%;
+    background-color:#b9b7e6
+}
+
+.td1-cell-7{
+    width: 30%;
+    background-color:rgb(202,141,146)
+}
+
+.td1-cell-8{
+    width: 20%;
+    background-color: #ffe1e3;
+}
+
+.td1-cell-9{
+    width: 16.66%;
+}
+
+.td1-cell-10{
+    width: 16.66%;
+}
+
+.td1-cell-11{
+    width: 16.66%;
+}
+
+.td1-cell-12{
+    width: 15%;
+}
+
+.table-table-3{
+    border : 1;
+    border-collapse: collapse;
+    height: 80px;
+    box-shadow: 0 0 1px 0(black);
+}
+
+.td1-cell-13{
+    width: 20%;
+    text-align: center;
+    background-color:hsl(15, 94%, 94%)
+}
+
+.td1-cell-14{
+    width: 16.66%;
+    
+}
+.td1-cell-15{
+    width: 15%;
+    
+}
+
+.td1-cell-16{
+    width: 20%;
+    text-align: center;
+    background-color:#ffefe2
+}
+
+.td1-cell-17{
+    width: 20%;
+    text-align: center;
+    background-color: #fcf9e8;
+}
+
+.table-table-4{
+    width:"100%";
+    border-collapse: collapse;
+    border-bottom: none;
+}
+
+.td1-cell-18{
+    width: 20%;
+    text-align: center;
+    background-color: #fefaef;
+}
+.td1-cell-19{
+width: 15%;
+text-align: center;
+}
